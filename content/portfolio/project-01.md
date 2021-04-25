@@ -14,6 +14,8 @@ The Children’s Place is a leading retailer for kids, toddlers and babies in th
 
 We created a branding campaign using Print, Outdoor, Digital and Television and came up with the campaign line, "Celebrate the World of Kid". We worked with photographer, Achim Lippoth, focusing on capturing kids doing what they do best... "being themselves".
 
+{{< vimeo 147608726 >}}
+
 {{<figure src="/images/portfolio/tcp/TCP_28x40_1.jpg">}}
 
 {{<figure src="/images/portfolio/tcp/TCP_28x40_2.jpg">}}
