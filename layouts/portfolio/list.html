@@ -26,10 +26,10 @@
       </div>
     </div>
     <div class="row shuffle-wrapper">
-      {{ range .Data.Pages }}
+      {{ range sort (.Data.Pages) ".Params.order" "desc"}}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{{range $index, $element:= .Params.categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
         <div class="position-relative rounded hover-wrapper">
-          <a href="{{ .Permalink }}">
+          <a href="{{ .Permalink | safeURL }}">
             <img src="{{.Params.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
             <div class="hover-overlay">
               <div class="hover-content">

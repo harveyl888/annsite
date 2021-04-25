@@ -1,7 +1,8 @@
 ---
 title: "The Children's Place"
 date: 2021-04-25T16:46:34+05:00
-image: "images/portfolio/th_tcp.jpg"
+order: 2
+image: "images/thumbnails/th_tcp.jpg"
 client: "The Children's Place"
 categories: ["cat 1","cat 2"]
 description: "This is meta description."

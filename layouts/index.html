@@ -192,7 +192,7 @@
       </div>
       <div class="row shuffle-wrapper">
         {{ $item:= site.Data.homepage.portfolio.item_show }}
-        {{ range first $item (where .Site.RegularPages "Section" "portfolio") }}
+        {{ range sort (first $item (where .Site.RegularPages "Section" "portfolio")) ".Params.order" "desc" }}
         <div class="col-lg-4 col-6 mb-4 shuffle-item">
           <div class="position-relative rounded hover-wrapper">
             <a href="{{ .Permalink | safeURL }}">
