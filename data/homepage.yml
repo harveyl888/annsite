@@ -14,7 +14,7 @@ about:
 
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "concepting"
@@ -40,4 +40,3 @@ portfolio:
   title : "Portfolio"
   item_show : 5
 
-  
