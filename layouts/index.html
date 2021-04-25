@@ -195,12 +195,14 @@
         {{ range first $item (where .Site.RegularPages "Section" "portfolio") }}
         <div class="col-lg-4 col-6 mb-4 shuffle-item">
           <div class="position-relative rounded hover-wrapper">
-            <img src="{{.Params.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-            <div class="hover-overlay">
-              <div class="hover-content">
-                <a class="btn btn-light btn-sm" href="{{ .Permalink | safeURL }}">view project</a>
+            <a href="{{ .Permalink | safeURL }}">
+              <img src="{{.Params.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+              <div class="hover-overlay">
+                <div class="hover-content">
+                  <p class="hover-title">{{.Params.title}}</p>
+                </div>
               </div>
-            </div>
+            </a>
           </div>
         </div>
         {{ end }}
