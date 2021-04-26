@@ -1,1 +1,4 @@
-<img src='{{.Get "src" }}' alt="image" class="img-fluid w-100">
+{{ $sizes := slice "25" "50" "75" "100" }}
+{{ $widthval := cond (in $sizes ( .Get "size" )) ( .Get "size" ) "100" }}
+{{ $classval := print "img-fluid w-" $widthval}}
+<img src='{{.Get "src" }}' alt="image" class={{ $classval }}>
