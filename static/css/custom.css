@@ -1,6 +1,10 @@
 .hover-title {
-    font-family: bwnistaint-xbd;
-    color: #fff;
-    text-transform: uppercase;
-    padding: 15px
-  }
+  font-family: bwnistaint-xbd;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 15px
+ }
+
+ .bold-text {
+   font-weight: 900;
+ }
