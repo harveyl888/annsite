@@ -15,9 +15,9 @@ The challenge was to create a new interactive digital campaign for Chobani yogur
 
 The Champlify Mobile App allowed parents and children to share an online experience with activities related to "Champion" qualities: Imaginative, Active, Courageous and Caring, unlocking trophies and rewards along the way. This campaign also included a collectable ChampTag underneath Chobani Champions lids of the actual yogurt. Each tag contained a unique AR code that came to life in 3-D.
 
-{{<figure src="/images/portfolio/chobani/CHOBANI_BILLBOARD_01-4.jpg">}}
+{{<img-responsive src="/images/portfolio/chobani/CHOBANI_BILLBOARD_01-4.jpg">}}
 
-{{<figure src="/images/portfolio/chobani/Chobani-Champions-site-B1.jpg">}}
+{{<img-responsive src="/images/portfolio/chobani/Chobani-Champions-site-B1.jpg">}}
 
-{{<figure src="/images/portfolio/chobani/chobaniChampions_image_2_580.jpg">}}
+{{<img-responsive src="/images/portfolio/chobani/chobaniChampions_image_2_580.jpg">}}
 

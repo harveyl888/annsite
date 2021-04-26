@@ -25,5 +25,5 @@ I love Miller Time! (she plays 5 secs of a party song from your Amazon Music)
 Yes. Perfect way to end the week. Any chance we could fly to Cabo too?  
 Sure. I’ll order right away. Should I make room in the fridge too? Ha ha.  
 
-{{<figure src="/images/portfolio/alexa/AlexaMillerDrizly.jpg">}}
+{{<img-responsive src="/images/portfolio/alexa/AlexaMillerDrizly.jpg">}}
 

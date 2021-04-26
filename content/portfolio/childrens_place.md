@@ -17,15 +17,15 @@ We created a branding campaign using Print, Outdoor, Digital and Television and 
 
 {{< vimeo 147608726 >}}
 
-{{<figure src="/images/portfolio/tcp/TCP_28x40_1.jpg">}}
+{{<img-responsive src="/images/portfolio/tcp/TCP_28x40_1.jpg">}}
 
-{{<figure src="/images/portfolio/tcp/TCP_28x40_2.jpg">}}
+{{<img-responsive src="/images/portfolio/tcp/TCP_28x40_2.jpg">}}
 
-{{<figure src="/images/portfolio/tcp/TCP_28x40_3.jpg">}}
+{{<img-responsive src="/images/portfolio/tcp/TCP_28x40_3.jpg">}}
 
-{{<figure src="/images/portfolio/tcp/TCP_48x14.jpg">}}
+{{<img-responsive src="/images/portfolio/tcp/TCP_48x14.jpg">}}
 
-{{<figure src="/images/portfolio/tcp/CHP_OOH.jpg">}}
+{{<img-responsive src="/images/portfolio/tcp/CHP_OOH.jpg">}}
 
-{{<figure src="/images/portfolio/tcp/OOH_01.jpg">}}
+{{<img-responsive src="/images/portfolio/tcp/OOH_01.jpg">}}
 

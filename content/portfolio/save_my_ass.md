@@ -18,7 +18,7 @@ We developed the app from concept to finish including naming of the app, initial
 
 The apps main purpose was to serve as "functional entertainment".
 
-{{<figure src="/images/portfolio/save_my_ass/iphone5-template-small_appstore.jpg">}}
+{{<img-responsive src="/images/portfolio/save_my_ass/iphone5-template-small_appstore.jpg">}}
 
-{{<figure src="/images/portfolio/save_my_ass/Screen%20shot%202015-11-15%20at%2011.16.41%20PM.jpg">}}
+{{<img-responsive src="/images/portfolio/save_my_ass/Screen%20shot%202015-11-15%20at%2011.16.41%20PM.jpg">}}
 

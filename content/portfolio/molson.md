@@ -15,8 +15,8 @@ The challenge was to come up with some spectacular ways to support the campaign,
 
 We created POS pieces, on-site, in liquor stores by giving away coolers that were wrapped to look like the 6-pack of Molson was stuck in a block of ice. The campaign also extended to bars and featured branded mirrors and branded walls in bathrooms.
 
-{{<figure src="/images/portfolio/molson/MolsonBeerCube.jpg">}}
+{{<img-responsive src="/images/portfolio/molson/MolsonBeerCube.jpg">}}
 
-{{<figure src="/images/portfolio/molson/MolsonMirror.jpg">}}
+{{<img-responsive src="/images/portfolio/molson/MolsonMirror.jpg">}}
 
-{{<figure src="/images/portfolio/molson/MolsonTree.jpg">}}
+{{<img-responsive src="/images/portfolio/molson/MolsonTree.jpg">}}

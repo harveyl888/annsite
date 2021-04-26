@@ -21,12 +21,12 @@ Chipotle is not your average company. And by no means did they want your average
 
 We also created print and OOH ads promoting the big burrito.
 
-{{<figure src="/images/portfolio/chipotle/Chipotle1.jpg">}}
+{{<img-responsive src="/images/portfolio/chipotle/Chipotle1.jpg">}}
 
-{{<figure src="/images/portfolio/chipotle/Chipotle2.jpg">}}
+{{<img-responsive src="/images/portfolio/chipotle/Chipotle2.jpg">}}
 
-{{<figure src="/images/portfolio/chipotle/Chipotle4.jpg">}}
+{{<img-responsive src="/images/portfolio/chipotle/Chipotle4.jpg">}}
 
-{{<figure src="/images/portfolio/chipotle/Chipotle5.jpg">}}
+{{<img-responsive src="/images/portfolio/chipotle/Chipotle5.jpg">}}
 
 

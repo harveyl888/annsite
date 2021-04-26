@@ -13,11 +13,11 @@ draft: false
 
 Clearblue Easy Digital Pregnancy Test was the most advanced pregnancy test on the market in terms of technology. This progressive product needed a progressive outlook in this category of sameness. The client wanted to challenge their competition in all areas and really revolutionize the category repositioning the brand across all markets. We decided to call it like we see it and truly speak to the people using it and created a print campaign of "Moments".
 
-{{<figure src="/images/portfolio/clearblue/family.jpg">}}
+{{<img-responsive src="/images/portfolio/clearblue/family.jpg">}}
 
-{{<figure src="/images/portfolio/clearblue/kids.jpg">}}
+{{<img-responsive src="/images/portfolio/clearblue/kids.jpg">}}
 
-{{<figure src="/images/portfolio/clearblue/milk.jpg">}}
+{{<img-responsive src="/images/portfolio/clearblue/milk.jpg">}}
 
-{{<figure src="/images/portfolio/clearblue/phone.jpg">}}
+{{<img-responsive src="/images/portfolio/clearblue/phone.jpg">}}
 

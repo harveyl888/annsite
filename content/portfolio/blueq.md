@@ -15,11 +15,11 @@ Blue Q is a company out of Pittsfield, Massachusetts that are "proud designers a
 
 The Blue Q Sales Team sure knows how to sell products. We created a site showcasing this remarkable ability.
 
-{{<figure src="/images/portfolio/blueq/blueqsalesteam.jpg">}}
+{{<img-responsive src="/images/portfolio/blueq/blueqsalesteam.jpg">}}
 
 Users were able to choose who should pitch to them - a Babe or a Hunk - based on sexual preference. Personally, I like the Hunk. Especially THIS hunk. The pre-roll for these products were equally hot. And just to be fair, I've also included the one of the Babe.
 
-{{<figure src="/images/portfolio/blueq/sales+team+web.jpg">}}
+{{<img-responsive src="/images/portfolio/blueq/sales+team+web.jpg">}}
 
 If the user was into hunky men, they were given this sales pitch.
 
@@ -42,17 +42,17 @@ Front:  "Could you be a bigger bitch?"
 Back:  "Seriously, I really hate you."  
 You can buy this gum at numerous retailers on-line including Amazon. Happy chewing.
 
-{{<figure src="/images/portfolio/blueq/bitchgum.jpg">}}
+{{<img-responsive src="/images/portfolio/blueq/bitchgum.jpg">}}
 
 ### Blue Q Post Cards
 
 Post cards were created and distributed promoting already existing BlueQ products and overall branding.
 
-{{<figure src="/images/portfolio/blueq/BlueQPostcardJesus.jpg">}}
+{{<img-responsive src="/images/portfolio/blueq/BlueQPostcardJesus.jpg">}}
 
-{{<figure src="/images/portfolio/blueq/BlueQPostcardDousche.jpg">}}
+{{<img-responsive src="/images/portfolio/blueq/BlueQPostcardDousche.jpg">}}
 
-{{<figure src="/images/portfolio/blueq/J1800x1200-00821.jpg">}}
+{{<img-responsive src="/images/portfolio/blueq/J1800x1200-00821.jpg">}}
 
-{{<figure src="/images/portfolio/blueq/J1800x1200-00823.jpg">}}
+{{<img-responsive src="/images/portfolio/blueq/J1800x1200-00823.jpg">}}
 

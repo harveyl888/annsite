@@ -19,15 +19,15 @@ Virgin Mobile wanted to push specific phones on the retail level over the holida
 
 {{< vimeo 147957263 >}}
 
-{{<figure src="/images/portfolio/virgin_mobile/VM445_01.jpg" class="img-fluid w-100">}}
+{{<img-responsive src="/images/portfolio/virgin_mobile/VM445_01.jpg">}}
 
-{{<figure src="/images/portfolio/virgin_mobile/VM445_04.jpg">}}
+{{<img-responsive src="/images/portfolio/virgin_mobile/VM445_04.jpg">}}
 
-{{<figure src="/images/portfolio/virgin_mobile/stggbleepinscreen.jpg">}}
+{{<img-responsive src="/images/portfolio/virgin_mobile/stggbleepinscreen.jpg">}}
 
-{{<figure src="/images/portfolio/virgin_mobile/stggbleepinscreen4.jpg">}}
+{{<img-responsive src="/images/portfolio/virgin_mobile/stggbleepinscreen4.jpg">}}
 
-{{<figure src="/images/portfolio/virgin_mobile/stggbleepinscreen5.jpg">}}
+{{<img-responsive src="/images/portfolio/virgin_mobile/stggbleepinscreen5.jpg">}}
 
-{{<figure src="/images/portfolio/virgin_mobile/stggbleepinscreen3.jpg">}}
+{{<img-responsive src="/images/portfolio/virgin_mobile/stggbleepinscreen3.jpg">}}
 

@@ -13,11 +13,11 @@ draft: false
 
 Starbucks was launching a new line of coffee called "Natural Fusions" – essentially the quality Starbucks coffee you know and loved infused with "natural flavors" like real vanilla bean, cinnamon and caramel.
 
-{{<figure src="/images/portfolio/starbucks/Starbucks2.jpg">}}
+{{<img-responsive src="/images/portfolio/starbucks/Starbucks2.jpg">}}
 
-{{<figure src="/images/portfolio/starbucks/Starbucks1.jpg">}}
+{{<img-responsive src="/images/portfolio/starbucks/Starbucks1.jpg">}}
 
-{{<figure src="/images/portfolio/starbucks/Starbucks3.jpg">}}
+{{<img-responsive src="/images/portfolio/starbucks/Starbucks3.jpg">}}
 
-{{<figure src="/images/portfolio/starbucks/Starbucks4.jpg">}}
+{{<img-responsive src="/images/portfolio/starbucks/Starbucks4.jpg">}}
 
