@@ -4,7 +4,7 @@ date: 2021-04-24T16:46:34+05:00
 order: 3
 image: "images/thumbnails/th_alexa.jpg"
 client: "MillerCoors / Amazon Alexa"
-categories: ["cat 1","cat 2"]
+categories: ["digital"]
 description: "This is meta description."
 draft: false
 ---

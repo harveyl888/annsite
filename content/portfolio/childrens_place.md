@@ -4,7 +4,7 @@ date: 2021-04-25T16:46:34+05:00
 order: 2
 image: "images/thumbnails/th_tcp.jpg"
 client: "The Children's Place"
-categories: ["cat 1","cat 2"]
+categories: ["TV","print"]
 description: "This is meta description."
 draft: false
 ---
