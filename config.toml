@@ -64,6 +64,10 @@ author = "ME"
 description = "This is meta description"
 
 
+# contact
+[params.contact]
+enable = true
+
 
 # social site
 [[params.social]]
