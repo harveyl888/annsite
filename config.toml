@@ -70,6 +70,9 @@ copyright = "Built with Hugo theme [Kross](https://github.com/themefisher/kross-
 [params.contact]
 enable = true
 
+[params.map]
+enable = false
+
 
 # social site
 [[params.social]]

@@ -17,11 +17,11 @@
   margin-left: auto;
 }
 
- .list-inline {
+ .new-list-inline {
   list-style: none;
   padding: 0;
 }
 
-.list-inline > li {
+.new-list-inline > li {
   display: inline;
 }

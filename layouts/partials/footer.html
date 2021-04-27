@@ -63,7 +63,7 @@
   <div class="border-top border-dark py-5 flex-container">
     <p class="mb-0 ml-5 text-light">{{ site.Params.copyright | markdownify }}</p>
     <!-- social icon -->
-    <ul class="list-inline mr-5 push-right">
+    <ul class="new-list-inline mr-5 push-right">
       {{ range site.Params.social }}
       <li class="mb-0 mr-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
       {{ end }}
