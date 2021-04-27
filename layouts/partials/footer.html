@@ -8,14 +8,15 @@
       </div>
       <div class="col-lg-8 mx-auto">
         <div class="bg-white rounded text-center p-5 shadow-down">
+            <h4 class="mb-80">Contact Form</h4>
             <form
               name="simpleContactForm"
               method="POST"
               data-netlify="true"
               data-netlify-honeypot="bot-field"
-              data-netlify-recaptcha="true"
+              data-netlify-recaptcha="false"
               id="simple-contact-form"
-              class="contact-form">
+              class="contact-form row">
               <div class="col-md-6">
                 <input type="text" id="contact-form-name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
               </div>
@@ -26,8 +27,8 @@
                 <textarea name="message" id="contact-form-message" class="form-control px-0 mb-4"
                   placeholder="Type Message Here"></textarea>
               </div>
-              <div data-netlify-recaptcha="true" class="form-row"></div>
-              <p class="form-row form-submit">
+              <!-- <div data-netlify-recaptcha="true" class="form-row"></div> -->
+              <p class="col-lg-6 col-10 mx-auto">
                   <button type="submit" class="btn btn-primary w-100">send</button>
               </p>
           </form>
