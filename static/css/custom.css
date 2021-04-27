@@ -8,3 +8,20 @@
  .bold-text {
    font-weight: 900;
  }
+ 
+.flex-container {
+  display: flex;
+}
+
+.push-right {
+  margin-left: auto;
+}
+
+ .list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline > li {
+  display: inline;
+}

@@ -62,6 +62,8 @@ address = "12345 street, USA"
 # meta description
 author = "ME"
 description = "This is meta description"
+# copyright
+copyright = "Built with Hugo theme [Kross](https://github.com/themefisher/kross-hugo) and hosted on netlify"
 
 
 # contact
@@ -71,7 +73,7 @@ enable = true
 
 # social site
 [[params.social]]
-icon = "ti-facebook"
+icon = "ti-linkedin"
 URL = "#"
 
 [[params.social]]
