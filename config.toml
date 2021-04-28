@@ -13,6 +13,8 @@ link = "plugins/slick/slick.css"
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 link = "css/custom.css"
+[[params.plugins.css]]
+link = "css/wnw-icon/wnw.css"
 
 
 # js plugin
@@ -85,5 +87,9 @@ URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
+URL = "#"
+
+[[params.social]]
+icon = "icon-working-not-working-logo-vector"
 URL = "#"
 

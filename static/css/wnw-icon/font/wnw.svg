@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="wnw" horiz-adv-x="1000" >
+<font-face font-family="wnw" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="working-not-working-logo-vector" unicode="&#xe800;" d="M-316 806h107l55-479 57 479h94l56-479 56 479h107l-105-767h-112l-49 441-53-441h-106l-107 767z m1165-355h-95l48 355h-107l-41-355h-29l-41 355h-94l-43-355h-29l-41 355h-107l50-355h-97v-81h108l47-331h105l40 331h26l36-331h112l46 331h106l0 81z m-416-124l-5 43h10l-5-43z m100 124l3 29 4-29h-7z m106-124l-4 43h10l-6-43z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
