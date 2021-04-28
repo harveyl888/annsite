@@ -25,3 +25,14 @@
 .new-list-inline > li {
   display: inline;
 }
+
+.fun-image {
+  display: block;
+}
+
+@media(max-width:991px) {
+  .fun-image {
+    display: none;
+  }
+}
+
