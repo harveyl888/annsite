@@ -9,9 +9,13 @@ description: "This is meta description."
 draft: false
 ---
 
-## STARBUCKS NATURAL FUSIONS
+## STARBUCKS
 
-Starbucks was launching a new line of coffee called "Natural Fusions" – essentially the quality Starbucks coffee you know and loved infused with "natural flavors" like real vanilla bean, cinnamon and caramel.
+### Agency: BBDO, New York
+
+### Natural Fusions
+
+Starbucks was launching a new line of coffee beans in grocery stores called "Natural Fusions". Natural Fusions combined the quality Starbucks coffee you know and love and infused with "natural flavors" like real vanilla bean, cinnamon and caramel. We wanted this campaign to be playful but to still have that elevated, premium feel.
 
 {{<img-responsive src="/images/portfolio/starbucks/Starbucks2.jpg">}}
 
