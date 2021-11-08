@@ -1,5 +1,5 @@
 ---
-title: "Blue Q Sales Team"
+title: "Blue Q"
 date: 2021-04-24T16:46:34+05:00
 order: 9
 image: "images/thumbnails/th_blueq.jpg"
@@ -9,27 +9,32 @@ description: "This is meta description."
 draft: false
 ---
 
-## Blue Q Sales team
+## Blue Q
 
-Blue Q is a company out of Pittsfield, Massachusetts that are "proud designers and manufacturers of life-improving, joy-bringing products since 1988." We were challenged with a few things, first to promote the brand to the general public, and second, to invent some original products that they could sell.  
+### Agency: Mother, New York
+
+Blue Q is a company out of Pittsfield, Massachusetts that are "proud designers and manufacturers of life-improving, joy-bringing products since 1988." We were challenged with a few things, first to promote the brand to the general public, and second, to invent some original products that they could sell.
+
+### Blue Q Sales team
+
+As self-proclaimed “manufacturers of curiosities” we helped BlueQ manufacture a campaign that is also a curiosity. It was a really fun way to spend $5000 production dollars back in the day.   
 
 The Blue Q Sales Team sure knows how to sell products. We created a site showcasing this remarkable ability.
 
 {{<img-responsive src="/images/portfolio/blueq/blueqsalesteam.jpg">}}
 
-Users were able to choose who should pitch to them - a Babe or a Hunk - based on sexual preference. Personally, I like the Hunk. Especially THIS hunk. The pre-roll for these products were equally hot. And just to be fair, I've also included the one of the Babe.
+The internet was pretty basic at the time, hence the microsite. Visitors chose which sales pitch they wanted (A babe or A hunk) based on their sexual preference. Personally, I like the hunk. Especially THIS hunk. And just to be fair and transparent, I've also included the babe.
 
 {{<img-responsive src="/images/portfolio/blueq/sales+team+web.jpg">}}
 
-If the user was into hunky men, they were given this sales pitch.
 
 {{< vimeo 147608080 >}}
-
-Or if the user was into babes, this is what they saw.
 
 {{< vimeo 147956616 >}}
 
 ### Pre-Rolls
+
+We also made a bunch of ridiculous pre-roll videos that sold specific products in their line. 
 
 {{< vimeo 147956732 >}}
 
@@ -37,16 +42,15 @@ Or if the user was into babes, this is what they saw.
 
 ### "Could You Be A Bigger Bitch" Gum
 
-I created a novelty gum that you can hand out to any coworker who might not be so nice. Leave this on their desk and they'll be sure to get the hint.  
+I created a novelty gum that could be handed out to any coworker who you don’t like. Simply leave this on their desk and they’ll be sure to get the super-obvious hint.  
 Front:  "Could you be a bigger bitch?"  
 Back:  "Seriously, I really hate you."  
-You can buy this gum at numerous retailers on-line including Amazon. Happy chewing.
 
 {{<img-responsive src="/images/portfolio/blueq/bitchgum.jpg">}}
 
 ### Blue Q Post Cards
 
-Post cards were created and distributed promoting already existing BlueQ products and overall branding.
+We wanted to do an awareness campaign that showcased the ridiculousness of the BlueQ brand. We created these fun postcards that were printed and strategically placed in high traffic locations.
 
 {{<img-responsive src="/images/portfolio/blueq/BlueQPostcardJesus.jpg">}}
 
@@ -55,4 +59,3 @@ Post cards were created and distributed promoting already existing BlueQ product
 {{<img-responsive src="/images/portfolio/blueq/J1800x1200-00821.jpg">}}
 
 {{<img-responsive src="/images/portfolio/blueq/J1800x1200-00823.jpg">}}
-
