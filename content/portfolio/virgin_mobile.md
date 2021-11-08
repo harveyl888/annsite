@@ -9,9 +9,11 @@ description: "This is meta description."
 draft: false
 ---
 
-## "BE BLEEPIN' AWESOME"
+## VIRGIN MOBILE
 
-Virgin Mobile wanted to push specific phones on the retail level over the holidays. We created a campaign called "Be Bleepin’ Awesome" which included Print, Television, Digital and a YouTube contest. We also created a spectacular board in Times Square.
+### Be Bleepin' Awesome
+
+Back when flip phones were still cool, Virgin Mobile wanted to push specific models on the retail level as gifts for the holidays. We had a simple message, If you want to be fucking awesome (or bleepin' awesome) buy your kids one of these flip phones from Virgin Mobile. We collaborated with the Perlorian Brothers and created a campaign called “Be Bleepin’ Awesome” which included Print, Television, Digital and a YouTube contest. We also created a spectacular board in Times Square.  
 
 {{< vimeo 147608519 >}}
 
@@ -30,4 +32,3 @@ Virgin Mobile wanted to push specific phones on the retail level over the holida
 {{<img-responsive src="/images/portfolio/virgin_mobile/stggbleepinscreen5.jpg">}}
 
 {{<img-responsive src="/images/portfolio/virgin_mobile/stggbleepinscreen3.jpg">}}
-
