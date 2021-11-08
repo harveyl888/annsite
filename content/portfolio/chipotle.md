@@ -9,9 +9,10 @@ description: "This is meta description."
 draft: false
 ---
 
-## BURRITO LOVE
+## CHIPOTLE
+### Burrito Love
 
-Chipotle is not your average company. And by no means did they want your average corporate video. The challenge was to create a low budget corporate video for employees that really embodied the culture of the brand. Our video was 9-minutes long and from that we also created a shortened teaser and a music video featuring our original song, "Burrito Love".
+Chipotle is not your average food and beverage company. And by no means did they want your average corporate video. The challenge was to create a low/no budget corporate video for employees that really embodied the culture of the brand. Even though we were only paid in Burrito Bucks our video was 9-minutes long.We also created a  shortened teaser and a music video featuring our original song, "Burrito Love".
 
 {{< youtube MtS9tL2rDtY >}}
 
