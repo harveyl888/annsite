@@ -89,3 +89,7 @@ In 2006, creating branded microsites was all the rage. We created a brand new si
 <br/>
 
 We developed The Beer Cannon for the site, shooting a series of clips in which our anti-spokesman, Briggs, builds a cannon to shoot beer cans at various items. The videos were unleashed on YouTube, initially by fans, and then in tandem with a media buy on YouTube. The results were astronomical — over 2 million views on YouTube in a two-week period, making the clips some of the most viewed on the site amongst millions. Which was a lot in 2006. This was all done on virtually no budget and made appearances on media vehicles like CNN, the publicity bang per buck has been second to none.
+
+{{< vimeo 147608395 >}}
+
+{{< vimeo 147956953 >}}
