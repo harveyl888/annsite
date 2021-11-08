@@ -40,3 +40,22 @@ portfolio:
   title : "Portfolio"
   item_show : 50
 
+# client logo slider
+clients_logo_slider:
+  enable : true
+  item:
+    - logo : "images/clients-logo/chipotle-logo.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/clearblue-logo.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/mbl-logo.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/nba-logo.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/progressive-logo.png"
+      URL : "#"
+      
