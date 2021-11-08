@@ -6,7 +6,7 @@ image: "images/thumbnails/th_flip.jpg"
 client: "CondeNaste"
 categories: ["product"]
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 ## FLIP.COM

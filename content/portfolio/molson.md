@@ -6,7 +6,7 @@ image: "images/thumbnails/th_molson.jpg"
 client: "Molson Canadian"
 categories: ["product"]
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 ## "IT'S GREAT TO BE CANADIAN"

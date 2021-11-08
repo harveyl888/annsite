@@ -6,7 +6,7 @@ image: "images/thumbnails/th_clearblue.jpg"
 client: "Clearblue"
 categories: ["print"]
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 ## CLEARBLUE EASY
