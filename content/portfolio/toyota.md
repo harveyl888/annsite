@@ -4,7 +4,7 @@ date: 2021-04-24T16:46:34+05:00
 order: 31
 image: "images/thumbnails/th_toyota.jpg"
 client: "Toyota"
-categories: ["boards"]
+categories: ["outdoor"]
 description: "This is meta description."
 draft: false
 ---
