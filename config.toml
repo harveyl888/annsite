@@ -58,12 +58,12 @@ logo = ""
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+xxx xxx xxx"
-email = "email@email.com"
-address = "12345 street, USA"
+phone = "646 456 4663"
+email = "theblur13@yahoo.com"
+address = "53 Thornberry Road, Winchester, MA 01890"
 # meta description
-author = "ME"
-description = "This is meta description"
+author = "Ann Lieberman"
+description = "Ann Lieberman Freelance Copywriter"
 # copyright
 copyright = "Built with Hugo theme [Kross](https://github.com/themefisher/kross-hugo) and hosted on netlify"
 
@@ -79,17 +79,13 @@ enable = false
 # social site
 [[params.social]]
 icon = "ti-linkedin"
-URL = "#"
-
-[[params.social]]
-icon = "ti-instagram"
-URL = "#"
+URL = "https://www.linkedin.com/in/ann-lieberman-7776315"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/crackyy"
 
 [[params.social]]
 icon = "icon-working-not-working-logo-vector"
-URL = "#"
+URL = "https://workingnotworking.com/85-ann"
 
